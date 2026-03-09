@@ -25,7 +25,7 @@ REGOLE
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA*/
- let myName = "Niccolò";
+ const myName = "Niccolò";
  console.log("Questo è il mio nome:", myName);
 
 /* ESERCIZIO 3
@@ -58,7 +58,7 @@ console.log("Questo è il valore di x:", x);
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 myName = "Sciucco";
-console.log("Questo è il nuovo valore della variabile myName: " + myName);
+console.log("E' impossibile cambiare valore ad una costante " + myName);
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
